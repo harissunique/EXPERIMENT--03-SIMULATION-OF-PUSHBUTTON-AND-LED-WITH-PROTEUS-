@@ -71,8 +71,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
-# Develop By: HARISHKUMAR R
-# Register No : 212223230073
+### Develop By: HARISHKUMAR R
+### Register No : 212223230073
 
 ```
  while (1)
